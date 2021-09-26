@@ -2,6 +2,7 @@
   "name": "@yututi/super-ultimate-genious-react-hooks",
   "version": "0.0.1",
   "description": "My ultimate react hooks",
+  "homepage": "https://github.com/yututi/super-ultimate-genious-react-hooks",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc --build",
