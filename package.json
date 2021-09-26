@@ -1,6 +1,6 @@
 {
   "name": "@yututi/super-ultimate-genious-react-hooks",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "My ultimate react hooks",
   "homepage": "https://github.com/yututi/super-ultimate-genious-react-hooks",
   "main": "dist/index.js",
@@ -13,7 +13,7 @@
     "hooks"
   ],
   "files": [
-    "src"
+    "dist"
   ],
   "peerDependencies": {
     "@types/react": "^17.0.24",
