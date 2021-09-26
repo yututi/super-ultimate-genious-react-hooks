@@ -4,7 +4,7 @@ My ultimate react hooks
 ## Install
 
 ```
-npm i @yututi/super-ultimate-genious-hooks
+npm i @yututi/super-ultimate-genious-react-hooks
 ```
 
 ## Features
@@ -15,7 +15,7 @@ npm i @yututi/super-ultimate-genious-hooks
 ```js
 import {
   useLifecycle
-} from "@yututi/super-ultimate-genious-hooks"
+} from "@yututi/super-ultimate-genious-react-hooks"
 
 export default function App() {
 
