@@ -1,0 +1,23 @@
+{
+  "name": "@yututi/super-ultimate-genious-react-hooks",
+  "version": "0.0.1",
+  "description": "My ultimate react hooks",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc --build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "hooks"
+  ],
+  "files": [
+    "src"
+  ],
+  "peerDependencies": {
+    "@types/react": "^17.0.24",
+    "react": "^17.0.2"
+  },
+  "author": "yututi",
+  "license": "WTFPL"
+}

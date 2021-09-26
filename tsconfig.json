@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "declaration": true,
+    "noImplicitAny": true,
+    "removeComments": true,
+    "noLib": false,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "target": "es6",
+    "sourceMap": true,
+    "lib": ["es2018", "dom"],
+    "jsx": "react",
+    "esModuleInterop": true,
+    "strict": true,
+    "outDir": "./dist"
+  },
+  "exclude": [
+    "dist",
+    "node_modules"
+  ]
+}
