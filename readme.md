@@ -4,7 +4,7 @@ My ultimate react hooks
 ## Install
 
 ```
-TBD
+npm i @yututi/super-ultimate-genious-hooks
 ```
 
 ## Features
